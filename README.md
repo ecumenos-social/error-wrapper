@@ -1,2 +1,3 @@
-# error-wrapper
-it is the package for wrapping errors
+# Error Wrapper
+
+It is the package for wrapping errors
